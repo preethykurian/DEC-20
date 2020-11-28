@@ -1,2 +1,5 @@
 read customer name
 read customer phone no 
+
+read order amount
+read product id
